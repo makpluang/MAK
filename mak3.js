@@ -1,1 +1,1 @@
-console.log(this is for checkout)
+console.log("this is for checkout")
