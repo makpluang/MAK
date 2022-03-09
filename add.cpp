@@ -11,5 +11,6 @@ int main()
         cin>>a>>b;
         int res=a+b;
         cout<<res<<endl;
+        cout<<a+b<<endl;
     }
 }
