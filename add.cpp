@@ -12,5 +12,6 @@ int main()
         int res=a+b;
         cout<<res<<endl;
         cout<<a+b<<endl;
+        cout<<a-b<<endl;
     }
 }
